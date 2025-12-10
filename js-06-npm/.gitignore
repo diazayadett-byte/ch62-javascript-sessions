@@ -1,0 +1,2 @@
+# se ignora la carpeta de dependencias de NPM
+node_modules 

@@ -1,0 +1,20 @@
+{
+  "name": "js-06-npm",
+  "version": "1.0.0",
+  "description": "uso de NPM en un proyecto",
+  "keywords": [
+    "generation.",
+    "npm",
+    "ch62"
+  ],
+  "license": "ISC",
+  "author": "Ayadett,",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}
